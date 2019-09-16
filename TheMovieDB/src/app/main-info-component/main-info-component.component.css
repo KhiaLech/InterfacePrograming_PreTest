@@ -1,0 +1,43 @@
+.Title {
+    text-align: center;
+}
+
+.ReleaseDate {
+    font-size: 30px;
+    color: grey;
+}
+
+.DescHead {
+    font-size: 30px;
+    text-align: left;
+    
+}
+.ShortDesc {
+    padding-top: 50px;
+    font-size: 18px;
+    width: 700px;
+    display: inline-block; 
+    text-align: left;
+}
+
+.rating{
+    
+    width: 70px;
+    height: 70px;
+    background-color: rgb(8, 66, 143);
+    border-radius: 50%;
+    line-height: 70px;
+    display: inline-block;
+    color: white;
+}
+
+.otherspheres {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(8, 66, 143);
+    border-radius: 50%;
+    line-height: 50px;
+    display: inline-block;
+    color: white;
+    margin: .5%;
+}
